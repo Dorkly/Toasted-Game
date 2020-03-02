@@ -3,7 +3,7 @@
 Game boy advance game coded in C programming as a final project for CS2261 at Georgia Institute for Technology.
 
 The game was made using C programming with sprites and backgrounds drawn in a program that parses  the jpg,png,bmp files into
-usable c files. We used a game boy advanced emulator to display the games. Ireally enjoyed the creative and open ended
+usable c files. We used a game boy advanced emulator to display the games. I really enjoyed the creative and open ended
 learning that was encouraged in this class.
 
 
