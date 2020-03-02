@@ -6,6 +6,11 @@ The game was made using C programming with sprites and backgrounds drawn in a pr
 usable c files. We used a game boy advanced emulator to display the games. I really enjoyed the creative and open ended
 learning that was encouraged in this class.
 
+Software
+----------------------------
+This project was created to run using VisualBoyAdvance an emulator for the gameboy advance. Download and install from the following Github for the lastest version.
+
+https://github.com/visualboyadvance-m/visualboyadvance-m/releases
 
 
 Gameplay
@@ -14,6 +19,8 @@ You are a piece of bread that needs to reach the toaster to become delicious bre
 You start off on a counter and must avoid getting dirty or wet to become toast.
 Watch out for dish soap spills, the sink and the Bagels that want to get toasted too.
 Also you can fall off the counter.
+
+![](toastedDemo.gif)
 
 Controls
 -------------------------------
